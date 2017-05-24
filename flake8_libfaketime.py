@@ -3,7 +3,7 @@ import tokenize
 
 from sys import stdin
 
-__version__ = '1.0'
+__version__ = '1.1'
 
 LIBFAKETIME_ERROR_CODE = 'T004'
 LIBFAKETIME_ERROR_MESSAGE = 'import of fake_time from libfaketime found (should be from libfaketime_tz_wrapper)'
